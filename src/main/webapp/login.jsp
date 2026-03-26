@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +59,7 @@
             <input type="password" name="password" required><br>
             <input type="submit" value="Login">
         </form>
-        <p>Don't have an account? <a href="register.jsp">Register</a></p>
+        <p>Don't have an account? <a href="Register.jsp">Register</a></p>
     </div>
     
 </body>
