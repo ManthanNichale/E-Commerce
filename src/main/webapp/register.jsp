@@ -18,10 +18,10 @@
 <div class="container">
     <h2>Register</h2>
     <form action="RegisterServlet" method="post">
-        <label>Username:</label>
+        <label>Username=</label>
         <input type="text" name="uname" required>
 
-        <label>Password:</label>
+        <label>Password=</label>
         <input type="password" name="pass" required>
 
         <input type="submit" value="Register">
